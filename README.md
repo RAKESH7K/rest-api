@@ -17,6 +17,6 @@ This is a beginner-friendly REST API built using **Python** and **Flask** to man
 
 - Python 🐍
 - Flask 🌶️
-- Postman / Curl 🌐
+- Postman 🌐
 
 ---
